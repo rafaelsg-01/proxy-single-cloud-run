@@ -20,9 +20,8 @@
   },
   "homepage": "https://github.com/rafaelsg-01/proxy-single-cloud-run#readme",
   "dependencies": {
-    "axios": "^1.6.0",
     "dotenv": "^17.4.2",
-    "express": "^4.18.2",
-    "https-proxy-agent": "^7.0.2"
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.4"
   }
 }
