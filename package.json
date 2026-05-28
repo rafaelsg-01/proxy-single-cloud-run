@@ -1,5 +1,5 @@
 {
-  "name": "projeto-proxy-single-2",
+  "name": "proxy-single-cloud-run",
   "version": "1.0.0",
   "description": "\"# proxy-single-2\"",
   "main": "index.js",
