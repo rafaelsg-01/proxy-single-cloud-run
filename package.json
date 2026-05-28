@@ -1,7 +1,7 @@
 {
   "name": "proxy-single-cloud-run",
   "version": "1.0.0",
-  "description": "\"# proxy-single-2\"",
+  "description": "\"# proxy-single-cloud-run\"",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafaelsg-01/proxy-single-2.git"
+    "url": "git+https://github.com/rafaelsg-01/proxy-single-cloud-run.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/rafaelsg-01/proxy-single-2/issues"
+    "url": "https://github.com/rafaelsg-01/proxy-single-cloud-run/issues"
   },
-  "homepage": "https://github.com/rafaelsg-01/proxy-single-2#readme",
+  "homepage": "https://github.com/rafaelsg-01/proxy-single-cloud-run#readme",
   "dependencies": {
     "axios": "^1.6.0",
     "dotenv": "^17.4.2",
